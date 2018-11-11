@@ -1,0 +1,12 @@
+{
+  "name": "rockpaperscissors",
+  "version": "1.0.0",
+  "description": "practice html, css, js",
+  "main": "main.js",
+  "scripts": {
+    "deploy": "gh-pages -d ."
+  },
+  "author": "Kevin Zhang",
+  "license": "ISC",
+  "home": "https://kzhangkzhang.github.io/rock-paper-scissor-javascript"
+}
